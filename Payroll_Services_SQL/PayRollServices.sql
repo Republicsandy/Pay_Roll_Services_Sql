@@ -12,6 +12,4 @@ INSERT INTO Employee_Pay_Roll (Name,Salary,StartData)
 VALUES ('Dhoni',68125.23,getDate());			
 			
 INSERT INTO Employee_Pay_Roll			
-VALUES ('UV',38423.32,getDate());			
-			
-select * from Employee_Pay_Roll	
+VALUES ('UV',38423.32,getDate());
