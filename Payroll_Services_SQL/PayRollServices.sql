@@ -13,5 +13,5 @@ VALUES ('Dhoni',68125.23,getDate());
 			
 INSERT INTO Employee_Pay_Roll			
 VALUES ('UV',38423.32,getDate());			
-			
+			-----UC-4 Retrieve all data from the table-----
 select * from Employee_Pay_Roll	
